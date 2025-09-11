@@ -18,7 +18,10 @@ happens.
 
 ### Labor
 
-**Dec 2019-Current, Self Employed**
+**September 2025-Current, Engineer, [9 Mothers Defense]**
+  *  Training anti-drone AI models
+
+**Dec 2019-On Hold, Self Employed**
 
   *  Available on a contract basis for cloud, cryptocurrency, security,
      distributed systems, and static analysis work
@@ -131,3 +134,4 @@ happens.
 [Fn]:https://github.com/fnproject/fn
 [OpenCensus]:https://opencensus.io
 [Fn medium]:https://medium.com/fnproject
+[9 Mothers Defense]:https://9mothers.com
