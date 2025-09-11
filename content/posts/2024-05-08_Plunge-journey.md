@@ -45,15 +45,20 @@ We went to Tractor Supply and bought a 110 gallon stock tank. Then we drove
 back home and got the Jeep and came back to pick it up. Don't make my mistake.
 Stock tanks don't fit in sedans. The stock tank was $150 which seemed cheap
 after looking at the other options at the time and not really understanding
-the amount of ice we were going to have to buy when it's 110 degrees outside.
-It also seemed more sturdy than the flimsy inflatable ones with pvc poles all
-over amazon and our hope was that we could leave water in it and it would be
-cooler than tap water overnight, maybe changing it every few sessions. Boy,
-were we wrong.
+the amount of ice we were going to have to buy when it's 110 degrees outside
+(we're in Las Vegas, for reference). It also seemed more sturdy than the
+flimsy inflatable ones with pvc poles all over amazon and our hope was that we
+could leave water in it and it would be cooler than tap water overnight, maybe
+changing it every few sessions. Boy, were we wrong.
 
 We started off with freezing a whole pack of water bottles from Costco. And
 this worked okay to start with spring temps, we could get the water down to
-55. 
+55, which was good enough for both of us to get a sub 60 plunge in. The
+problems with the water bottles are numerous, however. They are tedious. You
+have a lot of friends in the tub with you. They don't fully freeze for a
+couple days, if you want to plunge every day it's a no go. They take up a lot
+of freezer space. In any case, while this seems like a nice MacGyver (TODO?)
+situation, there are much better alternatives -- we're getting there.
 TODO finish section
 
 In the peak of summer, we ended up needing 4-5 16lb bags of ice every time we
