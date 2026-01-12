@@ -18,10 +18,13 @@ happens.
 
 ### Labor
 
-**September 2025-Current, Engineer, [9 Mothers Defense]**
-  *  Training anti-drone AI models
+**Sep 2025-Jan 2025, Engineer, [9 Mothers Defense]**
+  *  Built out pytorch models for audio localization using custom mic arrays
+  *  Flew drones at 80mph and tracked them in 3D space with 10 degree accuracy
+  *  Deployed to Jetson Thor with 3ms latency
+  *  Got really good at detecting drone signatures from spectrograms
 
-**Dec 2019-On Hold, Self Employed**
+**Dec 2019-Current, Self Employed**
 
   *  Available on a contract basis for cloud, cryptocurrency, security,
      distributed systems, and static analysis work
